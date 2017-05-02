@@ -1,4 +1,4 @@
-## InstaBot
+## InstaBot Try
 InstaBot v 1.1.0 
 
 If you want to join instabot.py team or have something to say - <a href="https://github.com/LevPasha">write me</a>.
